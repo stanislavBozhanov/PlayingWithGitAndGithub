@@ -1,1 +1,0 @@
-print("JAni mnogo hubavo mirishesh")
